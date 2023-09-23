@@ -1,3 +1,5 @@
+#Code to understand the type and memory loctation
+
 x = 5
 id(5)
 print(id(x))
